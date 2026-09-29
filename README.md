@@ -63,51 +63,51 @@
 
 ## 🔓 Open-Source GitHub Projects
 
-> Open-source software for self-hosting custom collection workflows, loan management systems (LMS), AI-powered dunning agents, and predictive debt recovery engines. Sorted **descending by GitHub Stars ⭐**.
+> Open-source software for self-hosting custom collection workflows, loan management systems (LMS), AI-powered dunning agents, and predictive debt recovery engines. Sorted **descending by GitHub_Stars ⭐**.
 
-- **[Apache Fineract](https://github.com/apache/fineract)** [![GitHub stars](https://img.shields.io/github/stars/apache/fineract?style=social&color=white)](https://github.com/apache/fineract/stargazers)  
+- **[Apache Fineract](https://github.com/apache/fineract)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/fineract?style=social&color=white)](https://github.com/apache/fineract/stargazers)  
   🏛️ Enterprise Apache-licensed core banking platform with comprehensive loan management capabilities including delinquency buckets, charge-off/charge-back transactions, asset sales, and advanced loan search. Production-proven at scale for financial institutions globally.
 
-- **[Kill Bill](https://github.com/killbill/killbill)** [![GitHub stars](https://img.shields.io/github/stars/killbill/killbill?style=social&color=white)](https://github.com/killbill/killbill/stargazers)  
+- **[Kill Bill](https://github.com/killbill/killbill)** [![GitHub_Stars](https://img.shields.io/github/stars/killbill/killbill?style=social&color=white)](https://github.com/killbill/killbill/stargazers)  
   ⚡ Open-source subscription billing, payment orchestration, and dunning engine with customizable overdue payment recovery rules, automated retry logic, and revenue recovery integrations.
 
-- **[Frappe Lending](https://github.com/frappe/lending)** [![GitHub stars](https://img.shields.io/github/stars/frappe/lending?style=social&color=white)](https://github.com/frappe/lending/stargazers)  
+- **[Frappe Lending](https://github.com/frappe/lending)** [![GitHub_Stars](https://img.shields.io/github/stars/frappe/lending?style=social&color=white)](https://github.com/frappe/lending/stargazers)  
   📋 Open-source Loan Management System built on ERPNext and Frappe Framework. Covers the entire loan lifecycle from origination to closure, including loan products, collateral management, financial accounting, billing, risk compliance, and co-lending.
 
-- **[loan-management-system](https://github.com/chandachewe10/loan-management-system)** [![GitHub stars](https://img.shields.io/github/stars/chandachewe10/loan-management-system?style=social&color=white)](https://github.com/chandachewe10/loan-management-system/stargazers)  
+- **[loan-management-system](https://github.com/chandachewe10/loan-management-system)** [![GitHub_Stars](https://img.shields.io/github/stars/chandachewe10/loan-management-system?style=social&color=white)](https://github.com/chandachewe10/loan-management-system/stargazers)  
   💻 Full-featured web loan management software for managing borrower accounts, repayment schedules, interest calculations, and payment tracking.
 
-- **[LendFlow](https://github.com/Hruthik2311/LendFlow)** [![GitHub stars](https://img.shields.io/github/stars/Hruthik2311/LendFlow?style=social&color=white)](https://github.com/Hruthik2311/LendFlow/stargazers)  
+- **[LendFlow](https://github.com/Hruthik2311/LendFlow)** [![GitHub_Stars](https://img.shields.io/github/stars/Hruthik2311/LendFlow?style=social&color=white)](https://github.com/Hruthik2311/LendFlow/stargazers)  
   🚀 Comprehensive loan management and recovery system built with Node.js/Express backend and React 19 frontend. Features recovery agent assignment, EMI payment tracking, real-time notifications, and admin reporting.
 
-- **[Smart Loan Recovery System](https://github.com/DavieObi/Smart-Loan-Recovery-System)** [![GitHub stars](https://img.shields.io/github/stars/DavieObi/Smart-Loan-Recovery-System?style=social&color=white)](https://github.com/DavieObi/Smart-Loan-Recovery-System/stargazers)  
+- **[Smart Loan Recovery System](https://github.com/DavieObi/Smart-Loan-Recovery-System)** [![GitHub_Stars](https://img.shields.io/github/stars/DavieObi/Smart-Loan-Recovery-System?style=social&color=white)](https://github.com/DavieObi/Smart-Loan-Recovery-System/stargazers)  
   🧠 AI-driven solution that predicts loan default risk using Machine Learning, segments delinquent borrowers, and assigns dynamic recovery strategies.
 
-- **[Tira](https://github.com/lgsurith/Tira)** [![GitHub stars](https://img.shields.io/github/stars/lgsurith/Tira?style=social&color=white)](https://github.com/lgsurith/Tira/stargazers)  
+- **[Tira](https://github.com/lgsurith/Tira)** [![GitHub_Stars](https://img.shields.io/github/stars/lgsurith/Tira?style=social&color=white)](https://github.com/lgsurith/Tira/stargazers)  
   🤖 Intelligent AI Collections Agent with self-learning capabilities for debt collection calls built with LiveKit, Supabase, and Google Gemini. Features multi-language support, financial hardship detection, payment agreement tracking, and FDCPA-compliant conversation flows.
 
-- **[Darj Smart Collection](https://github.com/mym1359/darj-smart-collection)** [![GitHub stars](https://img.shields.io/github/stars/mym1359/darj-smart-collection?style=social&color=white)](https://github.com/mym1359/darj-smart-collection/stargazers)  
+- **[Darj Smart Collection](https://github.com/mym1359/darj-smart-collection)** [![GitHub_Stars](https://img.shields.io/github/stars/mym1359/darj-smart-collection?style=social&color=white)](https://github.com/mym1359/darj-smart-collection/stargazers)  
   📊 AI-powered debt recovery system based on real-world banking dataset from Maskan Bank. Analyzes customer repayment behavior using XGBoost to predict repayment likelihood and recommend optimal collection strategies.
 
-- **[OpenCBS](https://github.com/Axon-System/opencbsys)** [![GitHub stars](https://img.shields.io/github/stars/Axon-System/opencbsys?style=social&color=white)](https://github.com/Axon-System/opencbsys/stargazers)  
+- **[OpenCBS](https://github.com/Axon-System/opencbsys)** [![GitHub_Stars](https://img.shields.io/github/stars/Axon-System/opencbsys?style=social&color=white)](https://github.com/Axon-System/opencbsys/stargazers)  
   🏦 Open-source loan tracking software for microfinance institutions. Features client management, loan schedule generation, collateral tracking, custom reporting, and C# backend with PostgreSQL.
 
-- **[Recoverflow](https://github.com/JudyaiLab/recoverflow)** [![GitHub stars](https://img.shields.io/github/stars/JudyaiLab/recoverflow?style=social&color=white)](https://github.com/JudyaiLab/recoverflow/stargazers)  
+- **[Recoverflow](https://github.com/JudyaiLab/recoverflow)** [![GitHub_Stars](https://img.shields.io/github/stars/JudyaiLab/recoverflow?style=social&color=white)](https://github.com/JudyaiLab/recoverflow/stargazers)  
   🌐 Cross-border B2B debt recovery multi-agent system featuring a 16-reason Voice Escalation Routing Tree, Concierge SLA Matrix, and live USDC settlement on Circle ARC blockchain.
 
-- **[N8nDebtCollector](https://github.com/MaDhuManodya/N8nDebtCollector)** [![GitHub stars](https://img.shields.io/github/stars/MaDhuManodya/N8nDebtCollector?style=social&color=white)](https://github.com/MaDhuManodya/N8nDebtCollector/stargazers)  
+- **[N8nDebtCollector](https://github.com/MaDhuManodya/N8nDebtCollector)** [![GitHub_Stars](https://img.shields.io/github/stars/MaDhuManodya/N8nDebtCollector?style=social&color=white)](https://github.com/MaDhuManodya/N8nDebtCollector/stargazers)  
   🔄 Automated debt recovery workflow using n8n, AI (OpenRouter), and Supabase/PostgreSQL. Features AI chatbot for debtor interaction and call automation via Twilio/Plivo.
 
-- **[Atlas DCA](https://github.com/fedex-atlas/atlas-dca)** [![GitHub stars](https://img.shields.io/github/stars/fedex-atlas/atlas-dca?style=social&color=white)](https://github.com/fedex-atlas/atlas-dca/stargazers)  
+- **[Atlas DCA](https://github.com/fedex-atlas/atlas-dca)** [![GitHub_Stars](https://img.shields.io/github/stars/fedex-atlas/atlas-dca?style=social&color=white)](https://github.com/fedex-atlas/atlas-dca/stargazers)  
   🎯 AI-driven debt collection platform developed for FedEx Hackathon. Features XGBoost Recovery Prediction Engine trained on 800k+ records with 85% ROC score and event-driven compliance engine.
 
-- **[Prestamos Gota a Gota](https://github.com/ChrithianC5Develop/prestamos-gota-a-gota)** [![GitHub stars](https://img.shields.io/github/stars/ChrithianC5Develop/prestamos-gota-a-gota?style=social&color=white)](https://github.com/ChrithianC5Develop/prestamos-gota-a-gota/stargazers)  
+- **[Prestamos Gota a Gota](https://github.com/ChrithianC5Develop/prestamos-gota-a-gota)** [![GitHub_Stars](https://img.shields.io/github/stars/ChrithianC5Develop/prestamos-gota-a-gota?style=social&color=white)](https://github.com/ChrithianC5Develop/prestamos-gota-a-gota/stargazers)  
   📱 Loan management system with collection routes system, multi-channel notifications, FastAPI backend, and Streamlit/Kotlin multiplatform client.
 
-- **[Vasool](https://github.com/sriramvarun0636/Vasool)** [![GitHub stars](https://img.shields.io/github/stars/sriramvarun0636/Vasool?style=social&color=white)](https://github.com/sriramvarun0636/Vasool/stargazers)  
+- **[Vasool](https://github.com/sriramvarun0636/Vasool)** [![GitHub_Stars](https://img.shields.io/github/stars/sriramvarun0636/Vasool?style=social&color=white)](https://github.com/sriramvarun0636/Vasool/stargazers)  
   🛡️ Revenue-recovery agent for Razorpay with a taxonomy-driven safety predicate system and hash-chained receipts for collection auditability.
 
-- **[Outstanding Dashboard](https://github.com/adriansanthosh77/outstanding-dashboard)** [![GitHub stars](https://img.shields.io/github/stars/adriansanthosh77/outstanding-dashboard?style=social&color=white)](https://github.com/adriansanthosh77/outstanding-dashboard/stargazers)  
+- **[Outstanding Dashboard](https://github.com/adriansanthosh77/outstanding-dashboard)** [![GitHub_Stars](https://img.shields.io/github/stars/adriansanthosh77/outstanding-dashboard?style=social&color=white)](https://github.com/adriansanthosh77/outstanding-dashboard/stargazers)  
   📈 Open-source payment tracking and analytics platform categorizing customers by payment behavior and providing insights to prevent bad debt.
 
 ---
@@ -134,7 +134,7 @@ For fintech startups, microfinance institutions, and software engineers building
 
 1. **Fork** the repository.
 2. Add or update entries in `README.md` (maintain standard table and list formats).
-3. Include: Project Name, URL, brief factual description, starting pricing, free trial terms, and star count badge.
+3. Include: Project Name, URL, brief factual description, starting pricing, free trial terms, and Stars_Count badge.
 4. Submit a **Pull Request** with a brief summary of additions.
 
 ---
