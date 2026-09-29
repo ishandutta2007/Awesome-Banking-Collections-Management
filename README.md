@@ -28,6 +28,7 @@
 - [💡 Architecture & Stack Recommendation](#-architecture--stack-recommendation)
 - [🤝 How to Contribute](#-how-to-contribute)
 - [⚖️ Legal & Compliance Disclaimer](#-legal--compliance-disclaimer)
+- [💖 Support & Sponsorship](#-support--sponsorship)
 - [📈 Star History](#-star-history)
 
 ---
@@ -142,6 +143,19 @@ For fintech startups, microfinance institutions, and software engineers building
 
 - **Regulatory Compliance**: All debt collection software, AI dunning agents, and automated calling tools must comply strictly with applicable debt collection regulations (e.g., Fair Debt Collection Practices Act - **FDCPA**, **TCPA**, **GDPR**, and local consumer protection laws).
 - **Vendor Independence**: This is a community-curated list and does not constitute an endorsement. Commercial features and open-source models should be audited independently prior to production deployment.
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you for visiting **Awesome Banking Collections Management**! If you find this curated resource helpful for your fintech platform, core banking architecture, or debt recovery research, please consider supporting the project:
+
+- ⭐ **Star this repository** to increase visibility and help others discover it!
+- 🍴 **Fork it** to customize your own collections stack or submit contributions.
+- 📢 **Share it** with fellow developers, fintech engineers, microfinance teams, and banking specialists.
+- ☕ **Buy Me a Coffee**: Support ongoing open-source curation and project updates via GitHub Sponsors:  
+  
+  <a href="https://github.com/sponsors/ishandutta2007"><img src="https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor on GitHub"/></a>
 
 ---
 
