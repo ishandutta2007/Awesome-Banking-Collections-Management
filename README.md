@@ -42,65 +42,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Qualco](https://www.qualco.eu/)**  
-
-  End-to-end collections and debt management platform covering early-stage to late-stage recovery with analytics and workflow automation.
-
-
-
-- **[TrueAccord](https://www.trueaccord.com/)**  
-
-  AI-powered digital collections platform using machine learning to personalize recovery journeys and improve liquidation rates.
-
-
-
-- **[CollectAI](https://www.collect.ai/)**  
-
-  AI-driven receivables management platform automating collections communications across email, SMS, and voice channels.
-
-
-
-- **[Finvi](https://finvi.com/)**  
-
-  Enterprise collections and recovery software with workflow automation, compliance tools, and payment processing for creditors and agencies.
-
-
-
-- **[CGI Collections](https://www.cgi.com/)**  
-
-  Comprehensive debt collection and recovery solution covering case management, payment processing, and regulatory compliance.
-
-
-
-- **[FICO Debt Manager](https://www.fico.com/)**  
-
-  Enterprise collections and recovery platform with predictive analytics, treatment optimization, and comprehensive case management.
-
-
-
-- **[Katabat](https://katabat.com/)**  
-
-  Collections and recovery platform with digital engagement, treatment optimization, and compliance management capabilities.
-
-
-
-- **[Indebted](https://indebted.co/)**  
-
-  AI-powered collections platform focused on optimizing recovery strategies and digital borrower engagement.
-
-
-
-- **[Pair Finance](https://www.pairfinance.com/)**  
-
-  Digital debt collection platform using behavioral science and AI to improve recovery rates while maintaining customer relationships.
-
-
-
-- **[Receeve](https://receeve.com/)**  
-
-  Collections and recovery platform with automated workflows, payment orchestration, and real-time analytics.
+| Platform | Description | Pricing | Free Tier / Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[Qualco](https://www.qualco.eu/)** | End-to-end collections and debt management platform covering early-stage to late-stage recovery with analytics and workflow automation. | Starting at $5,000/month enterprise base license | 14-day interactive evaluation sandbox upon request |
+| **[TrueAccord](https://www.trueaccord.com/)** | AI-powered digital collections platform using machine learning to personalize recovery journeys and improve liquidation rates. | 15% – 35% contingency fee on recovered debt (no collect, no fee) | 30-day proof-of-concept pilot (up to 1,000 accounts) |
+| **[CollectAI](https://www.collect.ai/)** | AI-driven receivables management platform automating collections communications across email, SMS, and voice channels. | Starting at €1,200/month base platform fee + €0.15/msg | 14-day test environment sandbox with up to 100 test communications |
+| **[Finvi](https://finvi.com/)** | Enterprise collections and recovery software with workflow automation, compliance tools, and payment processing for creditors and agencies. | $399/month starting tier ($699 one-time setup fee for Simplicity Collect); Enterprise from $2,500/month | 14-day free trial (up to 500 accounts) |
+| **[CGI Collections](https://www.cgi.com/)** | Comprehensive debt collection and recovery solution covering case management, payment processing, and regulatory compliance. | Starting at $10,000/month enterprise tier (tiered by AR size) | 30-day proof-of-concept sandbox access for financial institutions |
+| **[FICO Debt Manager](https://www.fico.com/)** | Enterprise collections and recovery platform with predictive analytics, treatment optimization, and comprehensive case management. | Starting at $15,000/month enterprise platform license fee | 30-day evaluation environment in FICO Analytic Cloud |
+| **[Katabat](https://katabat.com/)** | Collections and recovery platform with digital engagement, treatment optimization, and compliance management capabilities. | $4,999.99/month starting base plan | 14-day guided sandbox demo with pre-configured customer journeys |
+| **[Indebted](https://indebted.co/)** | AI-powered collections platform focused on optimizing recovery strategies and digital borrower engagement. | 15% – 30% contingency fee on successfully recovered debt | 30-day zero-fixed-fee pilot phase (up to 1,000 accounts) |
+| **[Pair Finance](https://www.pairfinance.com/)** | Digital debt collection platform using behavioral science and AI to improve recovery rates while maintaining customer relationships. | 12% – 25% commission fee per successfully collected claim | 14-day sandbox test environment for API integration testing |
+| **[Receeve](https://receeve.com/)** | Collections and recovery platform with automated workflows, payment orchestration, and real-time analytics. | Starting at €2,500/month base subscription | 14-day developer sandbox trial with sample debt portfolios |
 
 
 
