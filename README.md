@@ -28,6 +28,7 @@
 - [💡 Architecture & Stack Recommendation](#-architecture--stack-recommendation)
 - [🤝 How to Contribute](#-how-to-contribute)
 - [⚖️ Legal & Compliance Disclaimer](#-legal--compliance-disclaimer)
+- [📈 Star History](#-star-history)
 
 ---
 
@@ -141,6 +142,12 @@ For fintech startups, microfinance institutions, and software engineers building
 
 - **Regulatory Compliance**: All debt collection software, AI dunning agents, and automated calling tools must comply strictly with applicable debt collection regulations (e.g., Fair Debt Collection Practices Act - **FDCPA**, **TCPA**, **GDPR**, and local consumer protection laws).
 - **Vendor Independence**: This is a community-curated list and does not constitute an endorsement. Commercial features and open-source models should be audited independently prior to production deployment.
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Banking-Collections-Management&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Banking-Collections-Management&type=date&legend=top-left)
 
 ---
 
